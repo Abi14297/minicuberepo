@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: devtest
-        image: abi14297/devtest:6
+        image: abi14297/prodtask:4
         ports:
         - containerPort: 80
